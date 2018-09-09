@@ -1,4 +1,4 @@
-function Node(val){
+function Node(val) {
     this.value = val;
     this.edges = [];
     this.searched = false;
@@ -6,7 +6,7 @@ function Node(val){
 }
 
 
-Node.prototype.addEdge = function(neighbour){
+Node.prototype.addEdge = function(neighbour) {
     this.edges.push(neighbour);
     // edges have to go both ways
     neighbour.edges.push(this);
