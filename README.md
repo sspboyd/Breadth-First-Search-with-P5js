@@ -1,7 +1,7 @@
-# Larning Breadth First Search with Daniel Shiffman
+# Learning Breadth First Search with Daniel Shiffman
 
-Code from following Daniel Shiffman's great Coding Challenge #68
-
+This project was created while following Daniel Shiffman's great Coding Challenge #68.
+* [Coding Challenge #68 on YouTube](https://www.youtube.com/watch?v=piBq7VD0ZSo)
 
 ## Built With
 
